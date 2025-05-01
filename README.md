@@ -148,16 +148,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Uses Gymnasium for the environment interface
 - Uses wandb for experiment tracking
 
-## Citation
 
-If you use this code in your research, please cite:
+### Reference
 
-```bibtex
-@misc{uav-rl-path-planning,
-  author = {Your Name},
-  title = {UAV RL Path Planning},
-  year = {2024},
-  publisher = {GitHub},
-  url = {https://github.com/yourusername/uav-rl-path-planning}
-}
-```
+Chen, S., Mo, Y., Wu, X., Xiao, J., & Liu, Q. (2024). Reinforcement Learning-Based Energy-Saving Path Planning for UAVs in Turbulent Wind. Electronics, 13(16), 3190. https://doi.org/10.3390/electronics13163190
+
+
